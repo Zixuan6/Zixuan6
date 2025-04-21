@@ -8,5 +8,6 @@
 
 ## 💻 Open Source Work Stats
 
-![Zixuan6's Github stats](https://github-readme-stats.vercel.app/api?username=Zixuan6&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zixuan6&layout=compact)
+[![Zixuan6's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zixuan6&show_icons=true&theme=radical&hide=issues&count_private=true&hide_border=true)](https://github.com/Zixuan6)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zixuan6&layout=compact&theme=radical&exclude_repo=repo1,repo2&hide_border=true)](https://github.com/Zixuan6)
